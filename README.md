@@ -1,6 +1,6 @@
 # Talks
 
 - 2020-03-04 EthCC3 - How popular are smart contracts, really?
-  - [Slides](2020-03-04 EthCC3 - How popular are smart contracts, really?.pdf)
+  - [Slides](2020-03-04_EthCC3_How_popular_are_smart_contract_wallets)
   - [Recording](https://www.youtube.com/watch?v=FDUfJFb8Rko)
 
